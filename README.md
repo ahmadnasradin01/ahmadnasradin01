@@ -2,13 +2,14 @@
 <h1 align="center">Hi there 👋, I'm Ahmad Nasradin</h1>
 <h3 align="center">Software engineer and IT support specialist with a solid experience in computer science and a great desire to provide excellent software solutions and technical support.</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-- 🌱 I’m currently learning: **Xamarin, C#, Unity, Ethical Hacking, Web Development**
+<div>- 🌱 I’m currently learning: <b>Xamarin, C#, Unity, Ethical Hacking, Web Development</b> </div>
 
 - 💬 I am familiar with a variety of topics, including: **C#, Java programming, Game development and design , Operating systems (Windows, Android, Linux), Web-related topics, Hacking and viruses, Content creation, Social media, Troubleshooting.**
 
 - 📫 My Email Adress: **ahmadkurdish36@gmail.com**
 
 <div>- 🔗 Patreon : <a href="https://patreon.com/AhmadNasradin" target="_blank">patreon.com/AhmadNasradin</a></div>
+<br>
 
 - ⚡ Fun fact: **I think I am funny**
 
