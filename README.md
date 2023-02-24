@@ -8,7 +8,7 @@
 
 - 📫 My Email Adress: **ahmadkurdish36@gmail.com**
 
-<div>- 🔗 Patreon : <a href="https://patreon.com/AhmadNasradin">patreon.com/AhmadNasradin</a></div>
+<div>- 🔗 Patreon : <a href="https://patreon.com/AhmadNasradin" target="_blank">patreon.com/AhmadNasradin</a></div>
 
 - ⚡ Fun fact: **I think I am funny**
 
